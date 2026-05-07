@@ -20,7 +20,7 @@ This project explores how ethical AI practices can improve trust, fairness, and 
 ## 📂 Repository Contents
 
 ### 1️⃣ Bias Detection in Loan Approval
-![Google Form](Lab_1_2_Bias_Detection_Loan_Approval.ipynb)
+![Google Form](BiasDetectionLoanApproval.ipynb)
 
 Topics covered:
 - Dataset analysis
@@ -32,7 +32,7 @@ Topics covered:
 ---
 
 ### 2️⃣ Fairness Metrics
-![Google Form](Lab_2_3_Fairness_Metrics_Google_Colab.ipynb)
+![Google Form](FairnessMetricsGoogleColab.ipynb)
 
 Topics covered:
 - Fairness evaluation techniques
@@ -44,7 +44,7 @@ Topics covered:
 ---
 
 ### 3️⃣ Explainable AI using SHAP & LIME
-![Google Form](Lab_3_4_SHAP_LIME_Finance_Explainable_AI.ipynb)
+![Google Form](SHAPLIMEFinanceExplainableAI.ipynb)
 
 Topics covered:
 - Explainable AI (XAI)
@@ -56,7 +56,7 @@ Topics covered:
 ---
 
 ### 4️⃣ Ethical Risk in Financial AI
-![Google Form](Lab_5_6_Ethical_Risk_Finance_AI.ipynb)
+![Google Form](EthicalRiskFinanceAI.ipynb)
 
 Topics covered:
 - AI risks in banking and finance
@@ -68,7 +68,7 @@ Topics covered:
 ---
 
 ### 5️⃣ Transparency & AI Auditing
-![Google Form](Lab_7_8_Transparency_Auditing_Google_Colab.ipynb)
+![Google Form](TransparencyAuditingGoogleColab.ipynb)
 
 Topics covered:
 - AI transparency
