@@ -54,6 +54,6 @@ After completing these labs, users will be able to:
 
 👩‍💼 Author
 
-Himanshu Goyal
+Prachi Ahuja
 
 MBA Finance Student | AI in Finance Practitioner
